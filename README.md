@@ -1,7 +1,7 @@
-- 👋 Hi, I’m UniMas
+- 👋 Hi, I’m Roma
 - 👀 I’m interested in Python, AI
 - 🌱 I’m currently learning in L.M.S.U
-- 📫 My mail: wwmailwwmai@gmail.com
+- 📫 My mail: masovskiy.htb@gmail.com
 - ❤️ I love GitHub
 
 <!---
